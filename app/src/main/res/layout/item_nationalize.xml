@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1">
+    <TableRow>
+        <TextView
+            android:id="@+id/tv_country_id"
+            android:gravity="center"
+            android:padding="@dimen/dp_5" />
+        <TextView
+            android:id="@+id/tv_probability"
+            android:gravity="center"
+            android:padding="@dimen/dp_5" />
+    </TableRow>
+</TableLayout>

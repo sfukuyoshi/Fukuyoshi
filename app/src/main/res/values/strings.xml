@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fukuyoshi</string>
+    <string name="title">Predict the nationalize of a person based on their name</string>
+    <string name="placeholder_name">Write name here..</string>
+    <string name="predict">Predict</string>
+    <string name="error_empty_name">Name should not be empty</string>
+    <string name="error_contact_list">This feature is unavailable. Needs to grant READ_CONTACTS permission.</string>
+    <string name="permission_confirmation">READ_CONTACTS permission is needed to access this function. Do you want to allow it?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
